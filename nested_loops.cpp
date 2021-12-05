@@ -59,7 +59,4 @@ g++ nested_loops_alpha.cpp -o nested_loops_alpha
 
 	clear, compile, run:
 clear && g++ nested_loops_alpha.cpp -o nested_loops_alpha && ./nested_loops_alpha
-
-	name meaning:
-C++ for Schmid
 */
