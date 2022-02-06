@@ -1,7 +1,6 @@
 # apprenticeship-2021_10_26-edu-nested_loops
-2021-10-26 CEST
 
-To this day I have no idea - and I will probably never learn - why the *fuck* we took one separate class just on nested loops.
+To this day I, I do not understand - and I probably never will - why the *fuck* we took an entire day just on nested loops.
 
 ---
 
